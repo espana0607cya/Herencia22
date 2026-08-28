@@ -8,5 +8,8 @@ public class Main {
         miBotellaFav.CantidadDeAlco = 30;
         miBotellaFav.cantidadbotellas = 4;
         miBotellaFav.TiempoDeBajarLicor = 30;
+
+        miBotellaFav.beber();
+        miBotellaFav.mostrarDetalles();
     }
 }
