@@ -6,5 +6,7 @@ public class Main {
 
         miBotellaFav.marca = "Antioqueño";
         miBotellaFav.CantidadDeAlco = 30;
+        miBotellaFav.cantidadbotellas = 4;
+        miBotellaFav.TiempoDeBajarLicor = 30;
     }
 }
